@@ -14,10 +14,15 @@
 ---
 
 ## 📌 Featured Projects  
+
 🔹 [AI-Based Mental Health Chatbot](https://github.com/Gyanu22)  
+
 🔹 [Stock Price Prediction](https://github.com/Gyanu22/Power-BI-Sales-Dashboard.git)  
-🔹 [Power BI Sales Dashboard](https://github.com/Gyanu22) 
-🔹 [Excel Sales Dashboard](https://github.com/Gyanu22) 
+
+🔹 [Power BI Sales Dashboard](https://github.com/Gyanu22)  
+
+🔹 [Excel Sales Dashboard](https://github.com/Gyanu22)  
+
 
 ---
 
