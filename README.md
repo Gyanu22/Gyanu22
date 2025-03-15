@@ -21,7 +21,7 @@
 
 🔹 [Power BI Sales Dashboard](https://github.com/Gyanu22)  
 
-🔹 [Excel Sales Dashboard](https://github.com/Gyanu22)  
+🔹 [Excel Sales Dashboard](https://github.com/Gyanu22/Shoe-Sales-Dashboard.git)  
 
 
 ---
