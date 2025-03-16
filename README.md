@@ -15,7 +15,7 @@
 
 ## 📌 Featured Projects  
 
-🔹 [AI-Based Mental Health Chatbot](https://github.com/Gyanu22)  
+🔹 [AI-Based Mental Health Chatbot](https://github.com/Gyanu22/Mental-Health-Chatbot.git)  
 
 🔹 [Stock Price Prediction](https://github.com/Gyanu22/Power-BI-Sales-Dashboard.git)  
 
