@@ -17,9 +17,9 @@
 
 🔹 [AI-Based Mental Health Chatbot](https://github.com/Gyanu22/Mental-Health-Chatbot.git)  
 
-🔹 [Stock Price Prediction](https://github.com/Gyanu22/Power-BI-Sales-Dashboard.git)  
+🔹 [Stock Price Prediction](https://github.com/Gyanu22/Stock-Market-Price-Prediction-Mode-.git)  
 
-🔹 [Power BI Sales Dashboard](https://github.com/Gyanu22)  
+🔹 [Power BI Sales Dashboard](https://github.com/Gyanu22/Power-BI-Sales-Dashboard.git)  
 
 🔹 [Excel Sales Dashboard](https://github.com/Gyanu22/Shoe-Sales-Dashboard.git)  
 
